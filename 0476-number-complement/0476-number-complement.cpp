@@ -3,11 +3,11 @@ public:
     int findComplement(int num) {
        string binary="";
        while(num!=0){
-        binary.push_back((num%2)+'0');
+        binary.insert(binary.begin(),(num%2)+'0');
         num/=2;
        }
        cout<<binary;
-       reverse(binary.begin(),binary.end());
+    //    reverse(binary.begin(),binary.end());
        for(int i=0;i<binary.size();i++){
         binary[i]=(binary[i]=='1')?'0':'1';
        }

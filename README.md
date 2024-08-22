@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/MynameisSanskar/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MynameisSanskar/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/MynameisSanskar/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MynameisSanskar/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MynameisSanskar/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/MynameisSanskar/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |

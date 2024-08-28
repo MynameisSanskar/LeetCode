@@ -1,32 +1,62 @@
+class UnionFind {
+    vector<int> root, Size;
+public:
+    int merge;
+    UnionFind(int N) : root(N), Size(N, 1), merge(0) {
+        iota(root.begin(), root.end(), 0);
+    }
+
+    int Find(int x) {
+        if (x == root[x]) return x;
+        return root[x] = Find(root[x]); // Path compression
+    }
+
+    bool Union(int x, int y) {
+        x = Find(x), y = Find(y);
+
+        if (x == y) return 0;
+
+        if (Size[x] > Size[y]) {
+            Size[x] += Size[y];
+            root[y] = x;
+        } 
+        else {
+            Size[y] += Size[x];
+            root[x] = y;
+        }
+        merge++;
+        return 1;
+    }
+};
 class Solution {
 public:
- int dfs(int i, int j, vector<vector<int>> &grid2, vector<vector<int>> &grid1) {
-    if (i < 0 || j < 0 || i >= grid2.size() || j >= grid2[0].size() || grid2[i][j] == 0)
-        return 1;
-    if (grid1[i][j] == 0 && grid2[i][j] == 1)
-        return 0;
-
-    // Mark the cell as visited
-    grid2[i][j] = 0;
-
-    // Perform DFS on all four directions
-    return dfs(i + 1, j, grid2, grid1) *
-           dfs(i - 1, j, grid2, grid1) *
-           dfs(i, j + 1, grid2, grid1) *
-           dfs(i, j - 1, grid2, grid1);
-}
+    int r, c;
+    inline int idx(int i, int j){ return i*c+j; }
 
     int countSubIslands(vector<vector<int>>& grid1, vector<vector<int>>& grid2) {
-        int n=grid2.size();
-        int m=grid2[0].size();
-        int p=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid2[i][j]==1 && grid1[i][j]==1){
-                    p+=(dfs(i,j,grid2,grid1)>=1);
+        r=grid1.size(), c=grid1[0].size();
+        int N=r*c;
+        UnionFind G(N+1); // Put 1 more extra cell N as water
+        int cntLand=0;
+        for(int i=0; i<r; i++){
+            for(int j=0; j<c; j++){
+                int curr=idx(i, j), down=idx(i+1, j), right=idx(i, j+1);
+                bool g2=grid2[i][j]==1;
+                cntLand+=g2;
+                if(g2){
+                    //downward
+                    if (i+1<r && grid2[i+1][j])
+                        G.Union(curr, down);
+                    if (grid1[i][j]==0) //No sub-Island
+                        G.Union(curr, N);//connecting to water-cell N no sub-Island
+                    //rightward
+                    if (j+1<c && grid2[i][j+1])
+                        G.Union(curr, right);
                 }
+                
             }
         }
-        return p;
+    //    cout<<cntLand;
+        return cntLand-G.merge;
     }
 };

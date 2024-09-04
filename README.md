@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MynameisSanskar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/MynameisSanskar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/MynameisSanskar/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MynameisSanskar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MynameisSanskar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers

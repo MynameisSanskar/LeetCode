@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MynameisSanskar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MynameisSanskar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
 | ------- |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |

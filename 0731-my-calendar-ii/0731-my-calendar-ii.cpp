@@ -1,25 +1,23 @@
 class MyCalendarTwo {
 public:
-    vector<pair<int,int>> v1;
-    vector<pair<int,int>> v2;
+map<int,int> m;
     MyCalendarTwo() {
         
     }
     
     bool book(int start, int end) {
-        for(auto &[s,e]:v2){
-            if(max(s,start)<min(e,end)){
-                return 0;
+        m[start]++;
+        m[end]--;
+        int ongoing=0;
+        for(auto c:m){
+            ongoing+=c.second;
+            if(ongoing>=3){
+                m[start]--;
+                m[end]++;
+                return false;
             }
         }
-        for(auto &[s,e]:v1){
-            if(max(s,start)<min(e,end)){
-                v2.push_back({max(s,start),min(e,end)});
-            }
-        }
-        v1.push_back({start,end});
         return 1;
-
     }
 };
 

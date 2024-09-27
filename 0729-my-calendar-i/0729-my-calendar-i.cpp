@@ -1,18 +1,21 @@
 class MyCalendar {
-    map<int, int> intervals; // Stores intervals with start as key and end as value
+    map<int, int> m; // Stores intervals with start as key and end as value
 public:
     MyCalendar() {}
 
     bool book(int start, int end) {
-        auto next = intervals.lower_bound(start); // Find next interval
-        if (next != intervals.end() && next->first < end) {
-            return false; // Overlaps with next interval
+        m[start]++;
+        m[end]--;
+        int ongoing=0;
+        for(auto c:m){
+            ongoing+=c.second;
+            if(ongoing>=2){
+                m[start]--;
+                m[end]++;
+                return false;
+            }
         }
-        if (next != intervals.begin() && prev(next)->second > start) {
-            return false; // Overlaps with previous interval
-        }
-        intervals[start] = end; // No overlap, add interval
-        return true;
+        return 1;
     }
 };
 

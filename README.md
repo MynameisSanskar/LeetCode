@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MynameisSanskar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/MynameisSanskar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/MynameisSanskar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1240-stone-game-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/1240-stone-game-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0859-design-circular-deque](https://github.com/MynameisSanskar/LeetCode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/MynameisSanskar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/MynameisSanskar/LeetCode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/MynameisSanskar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/MynameisSanskar/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->

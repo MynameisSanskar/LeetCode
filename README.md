@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/MynameisSanskar/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MynameisSanskar/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/MynameisSanskar/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MynameisSanskar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MynameisSanskar/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MynameisSanskar/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
 ## Enumeration
 |  |

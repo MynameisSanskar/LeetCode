@@ -1,29 +1,22 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-     unordered_set<int> s;
-     map<int,int> m;
-     priority_queue<int,vector<int> ,greater<int>> pq;
-     for(auto c:arr){
-        pq.push(c);
-     } 
-     vector<int> v;
-     int indx=0;  
-     while(!pq.empty()){
-        if(s.find(pq.top())!=s.end()){
-            m[pq.top()]=indx;
-        }
-        else{
-            m[pq.top()]=++indx;
-        s.insert(pq.top());
-        }
+    using p=pair<int,int>;
+    priority_queue<p,vector<p>,greater<p>> pq;
+    for(auto c=0;c<arr.size();c++){
+        pq.push({arr[c],c});
+    }
+    int indx=1;
+    
+    while(!pq.empty()){
+        int val=pq.top().first;
+        int index=pq.top().second;
         pq.pop();
-     }
-     for(auto c:arr){
-        if(m.find(c)!=m.end()){
-            v.push_back(m[c]);
-        }
-     }
-     return v;
+        arr[index]=indx;
+        int next=pq.top().first;
+        if(val!=next)
+        indx++;
+    }
+    return arr;
     }
 };

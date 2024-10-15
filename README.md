@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/MynameisSanskar/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MynameisSanskar/LeetCode/tree/master/0664-strange-printer) |
+| [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MynameisSanskar/LeetCode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/MynameisSanskar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MynameisSanskar/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/MynameisSanskar/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/MynameisSanskar/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MynameisSanskar/LeetCode/tree/master/0664-strange-printer) |
+| [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/MynameisSanskar/LeetCode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/MynameisSanskar/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |

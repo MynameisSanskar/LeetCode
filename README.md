@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/MynameisSanskar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/1240-stone-game-ii) |
+| [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/MynameisSanskar/LeetCode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MynameisSanskar/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MynameisSanskar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MynameisSanskar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3534-count-almost-equal-pairs-i](https://github.com/MynameisSanskar/LeetCode/tree/master/3534-count-almost-equal-pairs-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/MynameisSanskar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MynameisSanskar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |

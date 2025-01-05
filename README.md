@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MynameisSanskar/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MynameisSanskar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MynameisSanskar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/MynameisSanskar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2465-shifting-letters-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MynameisSanskar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MynameisSanskar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2465-shifting-letters-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |

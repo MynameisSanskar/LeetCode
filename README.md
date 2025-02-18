@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MynameisSanskar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MynameisSanskar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/MynameisSanskar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/MynameisSanskar/LeetCode/tree/master/3447-clear-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/MynameisSanskar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/MynameisSanskar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/MynameisSanskar/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -262,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/MynameisSanskar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/MynameisSanskar/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MynameisSanskar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/MynameisSanskar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->

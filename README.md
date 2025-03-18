@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/MynameisSanskar/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/MynameisSanskar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/MynameisSanskar/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MynameisSanskar/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2716-prime-subtraction-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/MynameisSanskar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MynameisSanskar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/MynameisSanskar/LeetCode/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MynameisSanskar/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/MynameisSanskar/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/MynameisSanskar/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MynameisSanskar/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/MynameisSanskar/LeetCode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->

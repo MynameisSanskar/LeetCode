@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/MynameisSanskar/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/MynameisSanskar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0564-find-the-closest-palindrome](https://github.com/MynameisSanskar/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MynameisSanskar/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/MynameisSanskar/LeetCode/tree/master/0664-strange-printer) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MynameisSanskar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/MynameisSanskar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/MynameisSanskar/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/MynameisSanskar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/MynameisSanskar/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MynameisSanskar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2478-longest-nice-subarray](https://github.com/MynameisSanskar/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Trie
 |  |

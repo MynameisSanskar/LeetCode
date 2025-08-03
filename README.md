@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MynameisSanskar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MynameisSanskar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/MynameisSanskar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/MynameisSanskar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/MynameisSanskar/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1325-path-with-maximum-probability](https://github.com/MynameisSanskar/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2434-design-a-number-container-system](https://github.com/MynameisSanskar/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2803-modify-graph-edge-weights](https://github.com/MynameisSanskar/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/MynameisSanskar/LeetCode/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -281,10 +284,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MynameisSanskar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2478-longest-nice-subarray](https://github.com/MynameisSanskar/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/MynameisSanskar/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

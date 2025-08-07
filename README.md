@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MynameisSanskar/LeetCode/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/MynameisSanskar/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/MynameisSanskar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MynameisSanskar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/MynameisSanskar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MynameisSanskar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/0200-number-of-islands) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MynameisSanskar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/MynameisSanskar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MynameisSanskar/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MynameisSanskar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

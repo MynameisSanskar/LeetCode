@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/MynameisSanskar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MynameisSanskar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0650-2-keys-keyboard](https://github.com/MynameisSanskar/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/MynameisSanskar/LeetCode/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -181,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MynameisSanskar/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MynameisSanskar/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/MynameisSanskar/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MynameisSanskar/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MynameisSanskar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |

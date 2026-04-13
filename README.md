@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/MynameisSanskar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/MynameisSanskar/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/MynameisSanskar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/MynameisSanskar/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MynameisSanskar/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MynameisSanskar/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MynameisSanskar/LeetCode/tree/master/2035-count-sub-islands) |
